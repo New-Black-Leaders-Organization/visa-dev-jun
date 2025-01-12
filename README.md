@@ -1,4 +1,4 @@
-My Projects > {Jun Automotive Group} > Sandbox > Credentials
+My Projects > {Jun Automotive Group} > live > Credentials
    > Certificates
      > Visa Development Platform Certificate
      > Geo Trust Certificate
@@ -17,11 +17,11 @@ Sandbox
 ### Dashboard
 #### Download Certificate
 ```
-My Projects > {Project Name} > Sandbox > Credentials
+My Projects > {Jun Automotive Group} > live > Credentials
    > Certificates
      > Visa Development Platform Certificate
      > Geo Trust Certificate
-     > {Project Name}
+     > {Jun Automotive Group}
 ```
 
 Download Certificates to directrory `key`
